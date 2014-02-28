@@ -3,7 +3,7 @@
 /* ======================================================================
 
 	Plugin Name: Remove Header Junk
-	Plugin URI: http://cferdinandi.github.io/remove-header-junk/
+	Plugin URI: https://github.com/cferdinandi/remove-header-junk/
 	Description: Removes the unneccessary junk WordPress adds to the header.
 	Version: 1.0
 	Author: Chris Ferdinandi

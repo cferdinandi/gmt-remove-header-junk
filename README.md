@@ -4,6 +4,8 @@ A simple plugin that removes the unneccessary junk that WordPress adds to the he
 
 If you ever view the source of your WordPress blog, you’ll notice that WordPress adds a bunch of [unnecessary junk](http://gomakethings.com/remove-junk-from-the-wordpress-header/) into the header. Keep your markup clean and free of junk. Forked from [ThemeLab](http://www.themelab.com/2010/07/11/remove-code-wordpress-header/).
 
+[Download Antispambot](https://github.com/cferdinandi/antispambot/archive/master.zip)
+
 **In This Documentation**
 
 1. [Getting Started](#getting-started)

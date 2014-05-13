@@ -2,7 +2,7 @@
 
 A simple plugin that removes the unneccessary junk that WordPress adds to the header.
 
-If you ever view the source of your WordPress blog, you’ll notice that WordPress adds a bunch of [unnecessary junk](http://gomakethings.com/remove-junk-from-the-wordpress-header/) into the header. Keep your markup clean and free of junk. Forked from [ThemeLab](http://www.themelab.com/2010/07/11/remove-code-wordpress-header/).
+If you ever view the source of your WordPress blog, you’ll notice that WordPress adds a bunch of [unnecessary junk](http://gomakethings.com/remove-junk-from-the-wordpress-header/) into the header. Keep your markup clean and free of junk. Forked from [Scotch.io](http://scotch.io/quick-tips/cms/wordpress/removing-wordpress-header-junk).
 
 [Download Antispambot](https://github.com/cferdinandi/antispambot/archive/master.zip)
 
@@ -40,5 +40,7 @@ Remove Header Junk is licensed under the [MIT License](http://gomakethings.com/m
 
 ## Changelog
 
+* v1.1 - May 13, 2014
+	* Remove even more junk: feed links, short links, canonical links, and more "other posts" links.
 * v1.0 - October 16, 2013
 	* Initial release.

@@ -40,7 +40,9 @@ Remove Header Junk is licensed under the [MIT License](http://gomakethings.com/m
 
 ## Changelog
 
-* v1.1 - May 13, 2014
+Remove Header Junk uses [semantic versioning](http://semver.org/).
+
+* v1.1.0 - May 13, 2014
 	* Remove even more junk: feed links, short links, canonical links, and more "other posts" links.
-* v1.0 - October 16, 2013
+* v1.0.0 - October 16, 2013
 	* Initial release.

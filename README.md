@@ -11,7 +11,6 @@ If you ever view the source of your WordPress blog, you’ll notice that WordPre
 1. [Getting Started](#getting-started)
 2. [How to Contribute](#how-to-contribute)
 3. [License](#license)
-4. [Changelog](#changelog)
 
 
 
@@ -35,14 +34,3 @@ In lieu of a formal style guide, take care to maintain the existing coding style
 ## License
 
 Remove Header Junk is licensed under the [MIT License](http://gomakethings.com/mit/).
-
-
-
-## Changelog
-
-Remove Header Junk uses [semantic versioning](http://semver.org/).
-
-* v1.1.0 - May 13, 2014
-	* Remove even more junk: feed links, short links, canonical links, and more "other posts" links.
-* v1.0.0 - October 16, 2013
-	* Initial release.

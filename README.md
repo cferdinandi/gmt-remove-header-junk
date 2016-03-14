@@ -6,12 +6,6 @@ If you ever view the source of your WordPress blog, you’ll notice that WordPre
 
 [Download Antispambot](https://github.com/cferdinandi/antispambot/archive/master.zip)
 
-**In This Documentation**
-
-1. [Getting Started](#getting-started)
-2. [How to Contribute](#how-to-contribute)
-3. [License](#license)
-
 
 
 ## Getting Started
@@ -23,11 +17,13 @@ Getting started with Remove Header Junk is as simple as installing a plugin:
 
 And that's it, you're done. Nice work!
 
+It's recommended that you also install the [GitHub Updater plugin](https://github.com/afragen/github-updater) to get automattic updates.
+
 
 
 ## How to Contribute
 
-In lieu of a formal style guide, take care to maintain the existing coding style. Please apply fixes to both the development and production code. Don't forget to update the version number, and when applicable, the documentation.
+Please read the [Contribution Guidelines](CONTRIBUTING.md).
 
 
 

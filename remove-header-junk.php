@@ -1,8 +1,9 @@
 <?php
 
 /**
- * Plugin Name: Remove Header Junk
+ * Plugin Name: GMT Remove Header Junk
  * Plugin URI: https://github.com/cferdinandi/remove-header-junk/
+ * GitHub Plugin URI: https://github.com/cferdinandi/remove-header-junk/
  * Description: Removes the unneccessary junk WordPress adds to the header.
  * Version: 1.1.0
  * Author: Chris Ferdinandi
